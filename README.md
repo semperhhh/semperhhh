@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I'm currently working on iOS
+- 🐷 I'm currently learning JavaScript
+- 🚶 I'm find girlfriend?
