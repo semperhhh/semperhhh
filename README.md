@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🔭 I'm currently working on iOS
 - 🐷 I'm currently learning JavaScript
-- 🚶 I'm find girlfriend?
+- 🚶 I'm looking new work
